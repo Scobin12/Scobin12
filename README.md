@@ -7,7 +7,7 @@ Estou sempre em busca de novos desafios e oportunidades para expandir meu conjun
 
 ## Habilidades Técnicas
 - Linguagens de programação: HTML, CSS, JavaScript
-- Frameworks: React.js
+- Frameworks: 
 - Ferramentas de controle de versão: Git, GitHub
 
 ## Contato
