@@ -15,5 +15,6 @@ Estou sempre interessado(a) em colaborar em novos projetos, trocar ideias ou sim
 
 - LinkedIn: https://www.linkedin.com/in/joão-vitor-dos-santos-scobin/
 - Website: (*em construção*)
+- Portfólio: (*em construção*)
 
 Sinta-se à vontade para explorar meus repositórios e contribuições. 
