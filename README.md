@@ -14,6 +14,7 @@ Estou sempre em busca de novos desafios e oportunidades para expandir meu conjun
 Estou sempre interessado(a) em colaborar em novos projetos, trocar ideias ou simplesmente bater um papo sobre tecnologia. Fique à vontade para entrar em contato comigo através dos seguintes canais:
 
 - LinkedIn: https://www.linkedin.com/in/joão-vitor-dos-santos-scobin/
+- YouTube: https://www.youtube.com/@S.bin-FrontEnd
 - Website: (*em construção*)
 - Portfólio Web: (*em construção*)
 
