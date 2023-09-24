@@ -15,7 +15,7 @@ Estou sempre interessado(a) em colaborar em novos projetos, trocar ideias ou sim
 
 - LinkedIn: https://www.linkedin.com/in/joão-vitor-dos-santos-scobin/
 - YouTube: https://www.youtube.com/@S.bin-FrontEnd
-- Website: (*em construção*)
-- Portfólio Web: (*em construção*)
+- Cartão de visita: https://cartao-visita-scobin.netlify.app
+- Portfólio: (*em construção*)
 
 Sinta-se à vontade para explorar meus repositórios e contribuições. 
