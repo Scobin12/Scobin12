@@ -13,7 +13,7 @@
 <div width="100%" align="left">
 
   
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=midnight-purple&fontFamily=&preferLogin=true">    <img  alt="Scobin12's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Scobin12?cardType=github&theme=midnight-purple&fontFamily=&preferLogin=true" width="440" align="center"/>  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=midnight-purple&fontFamily=&preferLogin=true">    <img width="405" alt="Scobin12's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Scobin12?cardType=github&theme=midnight-purple&fontFamily=&preferLogin=true"/>  </a>
   
 </div>
 
