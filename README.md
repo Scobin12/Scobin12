@@ -1,7 +1,6 @@
 <img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg">
 <img align="right" width="200" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
 
-<hr>
 <h3> About me </h3>
 <ul>
   <li>🎨 Currently working as a <strong>UI/UX designer</strong></li>
