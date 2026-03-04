@@ -8,7 +8,7 @@
   <li>💻 Learning <strong>programming</strong> to expand my </n> knowledge</li>
 </ul>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=scobin12&theme=sakura-x&border_radius=4&locale=en&card_width=460" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=scobin12&theme=sakura-x&border_radius=4&locale=en&card_width=440" alt="GitHub Streak" /></a>
 
 <div width="100%" align="left">
 
